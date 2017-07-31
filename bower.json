@@ -1,0 +1,23 @@
+{
+  "name": "angular_todo",
+  "description": "Steam 1 work",
+  "main": "index.js",
+  "authors": [
+    "Kevin Tighe"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/redfire777/angular-todo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.5",
+    "angular-route": "^1.6.5"
+  }
+}
